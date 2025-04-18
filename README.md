@@ -1,5 +1,5 @@
-# Kanmi-card
-<!DOCTYPE html>
+# MADE A SITE FOR YOU
+
 <html lang="en">
 <head>
   <meta charset="UTF-8">
